@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <_name>OpenIndiana Default Wallpaper</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/openindiana-default.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Blue Sky</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/blue-sky.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Daisy</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/daisy.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Dandelion</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/dandelion.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Sparkle</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/sparkle.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Purple Haze</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/purple-haze.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+</wallpapers>
+

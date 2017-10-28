@@ -1,0 +1,14 @@
+2010-09-12 17:02 +0200  Guido Berhoerster  <guido+openindiana@berhoerster.name>  (43e43bf23a7a [tip])
+
+	* AUTHORS, COPYING, INSTALL, Makefile.am, NEWS, README, autogen.sh,
+	configure.ac, data/Makefile.am, data/blue-sky.jpg, data/daisy.jpg,
+	data/dandelion.jpg, data/openindiana-backgrounds.xml.in.in, data
+	/openindiana-default.jpg, data/purple-haze.jpg, data/sparkle.jpg,
+	po/LINGUAS, po/Makevars, po/POTFILES.in, po/POTFILES.skip: new file.
+	* AUTHORS, COPYING, INSTALL, Makefile.am, NEWS, README, autogen.sh,
+	configure.ac, data/Makefile.am, data/blue-sky.jpg, data/daisy.jpg,
+	data/dandelion.jpg, data/openindiana-backgrounds.xml.in.in, data
+	/openindiana-default.jpg, data/purple-haze.jpg, data/sparkle.jpg,
+	po/LINGUAS, po/Makevars, po/POTFILES.in, po/POTFILES.skip:
+	Initial version
+
