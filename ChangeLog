@@ -1,4 +1,22 @@
-2010-09-12 17:02 +0200  Guido Berhoerster  <guido+openindiana@berhoerster.name>  (43e43bf23a7a [tip])
+2010-10-03 19:46 +0200  Guido Berhoerster  <guido+openindiana@berhoerster.name>  (90230d10c924 [tip])
+
+	* .hgtags:
+	Added tag 0.1.1 for changeset 41e4dd8ea4a7
+
+2010-10-03 19:34 +0200  Guido Berhoerster  <guido+openindiana@berhoerster.name>  (41e4dd8ea4a7 [0.1.1])
+
+	* configure.ac, data/blue-sky.jpg, data/openindiana-default.jpg, data
+	/purple-haze.jpg:
+	moved logos so they are not cut off in non-widescreen resolutions
+	and bumped version
+
+2010-09-15 20:07 +0200  Guido Berhoerster  <guido+openindiana@berhoerster.name>  (9822f031bef1)
+
+	* .hgtags: new file.
+	* .hgtags:
+	Added tag 0.1 for changeset 43e43bf23a7a
+
+2010-09-12 17:02 +0200  Guido Berhoerster  <guido+openindiana@berhoerster.name>  (43e43bf23a7a [0.1])
 
 	* AUTHORS, COPYING, INSTALL, Makefile.am, NEWS, README, autogen.sh,
 	configure.ac, data/Makefile.am, data/blue-sky.jpg, data/daisy.jpg,
