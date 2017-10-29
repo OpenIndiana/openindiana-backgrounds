@@ -5,10 +5,18 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/openindiana
 background_DATA = \
 	openindiana-default.jpg \
 	blue-sky.jpg \
-	sparkle.jpg \
-	purple-haze.jpg \
+	calanques.jpg \
+	cerulean.jpg \
+	cubism.jpg \
 	daisy.jpg \
-	dandelion.jpg
+	dandelion.jpg \
+	dusk.jpg \
+	purple-haze.jpg \
+	sparkle.jpg \
+	sunset.jpg \
+	thunder.jpg \
+	tuttifrutti.jpg \
+	violet.jpg
 
 metadata_in_files = openindiana-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties
