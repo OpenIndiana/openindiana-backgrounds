@@ -2,7 +2,7 @@ dnl Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.63])
 AC_INIT([openindiana-backgrounds],
-        [0.1.1],
+        [1.0],
         [https://bugs.launchpad.net/openindiana],
         [openindiana-backgrounds],
         [http://openindiana.org/])
