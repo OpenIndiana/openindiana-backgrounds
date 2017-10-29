@@ -12,6 +12,21 @@
     <options>zoom</options>
   </wallpaper>
   <wallpaper deleted="false">
+    <_name>Calanques</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/calanques.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Cerulean</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/cerulean.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Cubism</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/cubism.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
     <_name>Daisy</_name>
     <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/daisy.jpg</filename>
     <options>zoom</options>
@@ -22,13 +37,33 @@
     <options>zoom</options>
   </wallpaper>
   <wallpaper deleted="false">
+    <_name>Dusk</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/dusk.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
     <_name>Sparkle</_name>
     <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/sparkle.jpg</filename>
     <options>zoom</options>
   </wallpaper>
   <wallpaper deleted="false">
-    <_name>Purple Haze</_name>
-    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/purple-haze.jpg</filename>
+    <_name>Sunset</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/sunset.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Thunder</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/thunder.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Tutti Frutti</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/tuttifrutti.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Violet</_name>
+    <filename>%%DATADIR%%/pixmaps/backgrounds/openindiana/violet.jpg</filename>
     <options>zoom</options>
   </wallpaper>
 </wallpapers>
