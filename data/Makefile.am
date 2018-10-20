@@ -4,6 +4,7 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/openindiana
 
 background_DATA = \
 	openindiana-default.jpg \
+	openindiana-default.png \
 	blue-sky.jpg \
 	calanques.jpg \
 	cerulean.jpg \
